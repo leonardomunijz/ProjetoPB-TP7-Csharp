@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPBTP7Cs", "ProjetoPBTP7Cs.csproj", "{7E2DD097-DE08-4CF0-90C9-148CFA2C3837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2DD097-DE08-4CF0-90C9-148CFA2C3837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2DD097-DE08-4CF0-90C9-148CFA2C3837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2DD097-DE08-4CF0-90C9-148CFA2C3837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2DD097-DE08-4CF0-90C9-148CFA2C3837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9710BD95-6658-407E-9177-047F935F05D7}
+	EndGlobalSection
+EndGlobal
